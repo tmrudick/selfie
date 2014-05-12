@@ -5,16 +5,16 @@ Selfie
 
 In an attempt to quantify how much time I waste daily, I created a set of scripts to take both a photo of my screen and myself every minute. Then, I animate it to quickly get an idea of how much time I have spent coding, on Facebook, or in meetings throughout the day. 
 
-Example Animation
+A day in my life
 -----------------
 
 TODO
 
 Requirements
 ------------
-* Imagemagick
-* ImageSnap
-* OSX (testing only on Mavericks)
+* [Imagemagick](http://www.imagemagick.org/)
+* [ImageSnap](https://github.com/rharder/imagesnap)
+* Mac OSX (testing only on Mavericks)
 
 Installation
 ------------
