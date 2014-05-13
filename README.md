@@ -13,7 +13,7 @@ Requirements
 * [ImageSnap](https://github.com/rharder/imagesnap)
 * Mac OSX (testing only on Mavericks)
 
-Both Imagemagick and ImageSnap can be installed via [Homebreew](http://brew.sh/).
+Both Imagemagick and ImageSnap can be installed via [Homebrew](http://brew.sh/).
 
 Installation
 ------------
