@@ -8,7 +8,7 @@ In an attempt to quantify how much time I waste daily, I created a set of script
 A day in my life
 -----------------
 
-TODO
+![Day in my life](http://tmrudick.github.io/selfie/images/animated.gif)
 
 Requirements
 ------------
